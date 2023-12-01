@@ -21,3 +21,4 @@ echo "Configuring git to use the credential manager"
 git config --global credential.helper 'cache --timeout=3600'
 
 echo "Git configuration complete."
+echo ""
