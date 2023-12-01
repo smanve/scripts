@@ -1,0 +1,2 @@
+[2023-12-01 18:49] Download: 184.4 Mbps Upload: 134.9 Mbps Latency: -37.8136
+[2023-12-01 18:51] Download: 194.9 Mbps Upload: 155.0 Mbps Latency: -37.8136
